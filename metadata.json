@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Skin",
+  "description": "A luxury botanical skincare e-commerce platform and sanctuary featuring rich product catalog, customer ritual management, interactive cart and checkout, order tracking, review moderation, and full admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
